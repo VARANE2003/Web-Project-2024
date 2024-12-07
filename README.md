@@ -7,6 +7,7 @@
 - <b>HTML</b>
 - <b>CSS & Bootstrap</b>
 - <b>PHP</b>
+- <b>SQL</b>
 - <b>Javascript</b>
 - <b>Apache HTTP server</b>
 
